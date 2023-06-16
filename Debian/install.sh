@@ -8,7 +8,7 @@ sudo apt install xinit curl git build-essential xsel arandr software-properties-
 
 # Fonts
 sudo apt install fonts-jetbrains-mono -y
-sudo apt install ttf-mscorefonts-installer -y
+# sudo apt install ttf-mscorefonts-installer -y
 sudo fc-cache  -f -v
 
 # cursor. if user's choice needed - sudo update-alternatives --config x-cursor-theme
